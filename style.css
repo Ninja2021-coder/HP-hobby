@@ -107,3 +107,10 @@ label{
     font-size: 30px;
     color: crimson;
 }
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
+    cursor: pointer;
